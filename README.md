@@ -10,7 +10,6 @@
 ![](https://streak-stats.demolab.com?user=w4ib4&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats-git-master-w4ib4s-projects.vercel.app/api/top-langs/?username=w4ib4&theme=radical&hide_border=false&layout=compact)
-## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app](https://github-profile-trophy.vercel.app/?username=w4ib4&theme=onedark)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
